@@ -5,3 +5,5 @@ def test_add():
 
 def test_sub():
     assert sub(5,2) == 3
+    print "this is v2"
+    assert sub(1,2) == -1
